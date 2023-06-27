@@ -18,9 +18,9 @@ to measure the quality of predictions and evaluate the performance of models.
 
 | Project Name | Description | 
 |---|---|
-| 📡 [KNN models]() | | 
+| 📡 [KNN models](https://github.com/williamjouse/Classification-models/blob/main/KNN_application.ipynb) | In this notebook, we look at whether it is possible to predict whether or not a given machine has a proper operating process based on temperature and pressure. For this, we use the KNN model to be trained by these data to be able to predict whether or not there will be combustion for a given input condition.| 
 | 💡 [Logistic regression]()| |
 | 📯 [Naive Bayes model]() |  | 
 | ✂️ [Decision Tree model]() |  |
-| 🚂 [SVM]()| |
+| 🚂 [Support Vector Machines (SVM)]()| |
  
